@@ -4,10 +4,10 @@ Feature: Shopping Cart
     Given the following products are added to the shopping cart:
         Product     Price   
         Pralka      | 1800  |
-        Headphones  | 100   |
-        Mouse       |20     |
+        Słuchawki   | 100   |
+        Mop         | 50     |
         When I calculate the total cost 
 
-        Then the total cost should be 1900
+        Then the total cost should be 1950
       
 

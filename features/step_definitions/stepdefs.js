@@ -4,9 +4,9 @@ const { Given, When, Then } = require('@cucumber/cucumber');
 
 let shoppingCart = [];
 [
-    {"Product": "Laptop", "Price": "1000"},
-    {"Product": "Headphones", "Price": "100"},
-    {"Product": "Mouse", "Price": "20"}
+    {"Product": "Pralka", "Price": "1800"},
+    {"Product": "Słuchawki", "Price": "100"},
+    {"Product": "Mop", "Price": "50"}
 ]
   
     
